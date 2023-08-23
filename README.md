@@ -1,7 +1,7 @@
 <p align="center">
    <img src="https://media.tenor.com/Rl4jpTcVL2QAAAAM/shaun-of-the-dead-cheers.gif">
 </p>
-<h1 align="center">Hi 👋, I'm Lee Yarwood 👨‍🌾 </h1>
+<h1 align="center">Hi 👋, I'm Lee 👨‍🌾 </h1>
 
 - 🔭 I’m currently working on [KubeVirt](https://kubevirt.io) and specifically the [instancetype.kubevirt.io API and CRDs](https://kubevirt.io/user-guide/virtual_machines/instancetypes/)
 
