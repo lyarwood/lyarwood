@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [KubeVirt SIGs - What&#39;s Next?](https://blog.yarwood.me.uk/2023/08/25/kubevirt_sigs_whats_next/)
 - [KubeVirt instancetype.kubevirt.io Demo #6](https://blog.yarwood.me.uk/2023/07/05/kubevirt_instancetype_demo_6/)
 - [KubeVirt instancetype.kubevirt.io Update #5](https://blog.yarwood.me.uk/2023/06/22/kubevirt_instancetype_update_5/)
 - [KubeVirt Summit 2023](https://blog.yarwood.me.uk/2023/04/03/kubevirt_summit_2023/)
@@ -18,5 +19,4 @@
 - [KubeVirt instancetype.kubevirt.io Demo #3](https://blog.yarwood.me.uk/2022/10/27/kubevirt_instancetype_demo_3/)
 - [KubeVirt instancetype.kubevirt.io Update #3](https://blog.yarwood.me.uk/2022/10/05/kubevirt_instancetype_update_3/)
 - [KubeVirt instancetype.kubevirt.io Demo #2](https://blog.yarwood.me.uk/2022/08/03/kubevirt_instancetype_demo_2/)
-- [KubeVirt instancetype.kubevirt.io Update #2](https://blog.yarwood.me.uk/2022/07/21/kubevirt_instancetype_update_2/)
 <!-- BLOG-POST-LIST:END -->
