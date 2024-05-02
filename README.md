@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Devconf.cz 2024 - Schedule and talk](https://blog.yarwood.me.uk/2024/05/02/deconf_2024_schedule/)
 - [KubeVirtCI - How to deploy an env with CPUManager and multiple host NUMA nodes](https://blog.yarwood.me.uk/2024/05/02/kubevirt_kubevirtci_numa/)
 - [KubeVirt SIGs - What&#39;s Next?](https://blog.yarwood.me.uk/2023/08/25/kubevirt_sigs_whats_next/)
 - [KubeVirt instancetype.kubevirt.io Demo #6](https://blog.yarwood.me.uk/2023/07/05/kubevirt_instancetype_demo_6/)
@@ -18,5 +19,4 @@
 - [KubeVirt instancetype.kubevirt.io Update #4](https://blog.yarwood.me.uk/2023/01/18/kubevirt_instancetype_update_4/)
 - [KubeVirt instancetype.kubevirt.io `InferFromVolume` demo](https://blog.yarwood.me.uk/2022/10/31/kubevirt_instancetype_infer_instancetype/)
 - [KubeVirt instancetype.kubevirt.io Demo #3](https://blog.yarwood.me.uk/2022/10/27/kubevirt_instancetype_demo_3/)
-- [KubeVirt instancetype.kubevirt.io Update #3](https://blog.yarwood.me.uk/2022/10/05/kubevirt_instancetype_update_3/)
 <!-- BLOG-POST-LIST:END -->
