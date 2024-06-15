@@ -9,7 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [DevConf 2024](https://blog.yarwood.me.uk/2024/06/14/devconf_2024/)
+- [DevConf.cz 2024 presentation - Streamlining VM creation within KubeVirt](https://blog.yarwood.me.uk/2024/06/14/devconf_2024/)
 - [Devconf.cz 2024 - Schedule and talk](https://blog.yarwood.me.uk/2024/05/02/deconf_2024_schedule/)
 - [KubeVirtCI - How to deploy an env with CPUManager and multiple host NUMA nodes](https://blog.yarwood.me.uk/2024/05/02/kubevirt_kubevirtci_numa/)
 - [KubeVirt SIGs - What&#39;s Next?](https://blog.yarwood.me.uk/2023/08/25/kubevirt_sigs_whats_next/)
