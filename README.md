@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [KubeVirt](https://kubevirt.io) and specifically the [instancetype.kubevirt.io API and CRDs](https://kubevirt.io/user-guide/virtual_machines/instancetypes/)
 
-- 📝 I regularly write articles on [https://blog.yarwood.me.uk](https://blog.yarwood.me.uk)
+- 📝 I sometimes write articles on [https://blog.yarwood.me.uk](https://blog.yarwood.me.uk)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
