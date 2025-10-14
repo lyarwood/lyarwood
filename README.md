@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Lee 👨‍🌾 </h1>
 
-- 🔭 I’m currently working on [KubeVirt](https://kubevirt.io) and specifically the [instancetype.kubevirt.io API and CRDs](https://kubevirt.io/user-guide/virtual_machines/instancetypes/)
+- 🔭 I’m currently working on [KubeVirt](https://kubevirt.io)
 
 - 📝 I sometimes write articles on [https://blog.yarwood.me.uk](https://blog.yarwood.me.uk)
 
