@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [cctv - A TUI for browsing Claude Code conversations](https://blog.yarwood.me.uk/2026/04/18/cctv/)
 - [KubeVirt release-1.8 AI Attribution Review](https://blog.yarwood.me.uk/2026/02/27/kubevirt_ai_attribution_review_release_1_8/)
 - [KubeVirt instancetype.kubevirt.io Update #6](https://blog.yarwood.me.uk/2026/01/30/kubevirt_instancetype_update_6/)
 - [DevConf.cz 2024 presentation - Streamlining VM creation within KubeVirt](https://blog.yarwood.me.uk/2024/06/14/devconf_2024/)
@@ -18,5 +19,4 @@
 - [KubeVirt instancetype.kubevirt.io Demo #6](https://blog.yarwood.me.uk/2023/07/05/kubevirt_instancetype_demo_6/)
 - [KubeVirt instancetype.kubevirt.io Update #5](https://blog.yarwood.me.uk/2023/06/22/kubevirt_instancetype_update_5/)
 - [KubeVirt Summit 2023](https://blog.yarwood.me.uk/2023/04/03/kubevirt_summit_2023/)
-- [KubeVirt instancetype.kubevirt.io Updated `InferFromVolume` demo](https://blog.yarwood.me.uk/2023/01/19/kubevirt_instancetype_infer_instancetype_updated/)
 <!-- BLOG-POST-LIST:END -->
