@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing KubeVirt controllers in seconds, not clusters](https://blog.yarwood.me.uk/2026/10/20/kubevirt-integration-test-framework/)
 - [Understanding KubeVirt&#39;s Host Kernel and Userspace Dependencies](https://blog.yarwood.me.uk/2026/09/03/understanding-kubevirt-host-kernel-userspace-dependencies/)
 - [KubeVirt instancetype.kubevirt.io Update #7](https://blog.yarwood.me.uk/2026/07/31/kubevirt_instancetype_update_7/)
 - [KubeVirt release-1.9 AI Attribution Review](https://blog.yarwood.me.uk/2026/07/02/kubevirt_ai_attribution_review_release_1_9/)
@@ -18,5 +19,4 @@
 - [KubeVirt release-1.8 AI Attribution Review](https://blog.yarwood.me.uk/2026/02/27/kubevirt_ai_attribution_review_release_1_8/)
 - [KubeVirt instancetype.kubevirt.io Update #6](https://blog.yarwood.me.uk/2026/01/30/kubevirt_instancetype_update_6/)
 - [DevConf.cz 2024 presentation - Streamlining VM creation within KubeVirt](https://blog.yarwood.me.uk/2024/06/14/devconf_2024/)
-- [Devconf.cz 2024 - Schedule and talk](https://blog.yarwood.me.uk/2024/05/02/deconf_2024_schedule/)
 <!-- BLOG-POST-LIST:END -->
